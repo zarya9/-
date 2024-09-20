@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cactus", "Cactus\Cactus.csproj", "{FD15216C-14E5-4EC9-B6C8-279E13A1A96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD15216C-14E5-4EC9-B6C8-279E13A1A96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD15216C-14E5-4EC9-B6C8-279E13A1A96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD15216C-14E5-4EC9-B6C8-279E13A1A96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD15216C-14E5-4EC9-B6C8-279E13A1A96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468520B7-2F60-4FAC-82B0-471A6FDC2DA0}
+	EndGlobalSection
+EndGlobal
